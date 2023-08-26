@@ -1,0 +1,36 @@
+.section {
+  background-color: rgb(191, 191, 246);
+}
+.springboot-img img {
+  height: auto;
+  width: 100%;
+}
+.top-heading {
+  padding: 30px;
+}
+.courses {
+  padding: 33px 0px 10px 0x;
+}
+.springboot-rating ul li {
+  list-style: none;
+
+  display: inline;
+  color: rgb(234, 226, 16);
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.springboot-heading h1 {
+  padding-top: 8px;
+
+  font-size: 24px;
+  color: rgb(0, 89, 255);
+}
+.action-btn {
+  padding: 5px 0px !important;
+  width: 100%;
+  font-size: 13px !important;
+}
+.discounted-price p {
+  text-align: right;
+}
